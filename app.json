@@ -1,0 +1,12 @@
+{
+  "name": "reactnd-fitness",
+  "displayName": "reactnd-fitness",
+  "expo": {
+    "name": "reactnd-fitness",
+    "slug": "reactnd-fitness",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
