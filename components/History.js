@@ -48,6 +48,7 @@ class History extends Component {
           onPress={() => {
             this.props.navigation.navigate("Entry Detail", {
               entryId: key,
+              formattedDate: formattedDate,
             });
           }}
         >
